@@ -1,5 +1,6 @@
 # rust-sample
-CARGO and an shameful implementation of HTTP, I will be happy if you understand.
+CARGO and a shameful implementation of HTTP, I will be happy if you understand.
 
+Using Qt to build the UI, under development.
 
 The first time always is terrible.
