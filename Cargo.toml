@@ -4,4 +4,4 @@ version = "0.1.0"
 authors = ["ppamorim <pp.amorim@hotmail.com>"]
 
 [dependencies]
-hyper = "0.9.7"
+qmlrs = "0.1.1"
